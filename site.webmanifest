@@ -1,0 +1,14 @@
+{
+  "name": "Nustar Casino - Arch Resort Odds and Casino",
+  "short_name": "Nustar",
+  "description": "Nustar Casino Arch Resort hub: arch entry, guest join, sun bonus, odds terrace, reel arcade, sky run and salon live. 18+.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a0c10",
+  "theme_color": "#8b1e2d",
+  "lang": "en",
+  "icons": [
+    {"src":"assets/brand/icon-192.png?v=ns1","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"assets/brand/icon-512.png?v=ns1","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
