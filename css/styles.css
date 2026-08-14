@@ -62,10 +62,10 @@ ul { list-style: none; }
 }
 .brand { display: inline-flex; align-items: center; gap: .7rem; font-weight: 800; }
 .brand img {
-  width: 54px; height: 54px; border-radius: 8px;
+  width: 48px; height: 48px; border-radius: 10px;
   object-fit: cover; object-position: center;
-  box-shadow: 0 0 0 1px rgba(139, 30, 45, 0.45);
-  background: #f5e6d8;
+  background: #2a1218;
+  box-shadow: none;
 }
 .brand span {
   font-family: var(--font-display); font-size: 1.15rem; letter-spacing: .04em;
